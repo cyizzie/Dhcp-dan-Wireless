@@ -12,7 +12,9 @@ MK	: Praktikum Jaringan Komputer
 ## A. PERCOBAAN DHCP
 1.	Buat Topologi.
 2.	Pasang Kabel Copper Straight dari PC ke Switch terhubung.
+   
      ![image](https://github.com/user-attachments/assets/7af05a48-50cf-43c1-959f-cd9316659399)
+  	
 3.	Setelah itu, kita menyalakan switch daya dan tunggu beberapa menit, router akan menyala.
 4.	Setelah looding router selesai, kita lanjutkan konfigurasinya.
      ![image](https://github.com/user-attachments/assets/095a6916-44fa-4be9-9911-a4f125c6e893)
@@ -25,20 +27,19 @@ MK	: Praktikum Jaringan Komputer
     ![image](https://github.com/user-attachments/assets/77b851cc-65fc-4e94-94a0-960c89d3d646)
     ![image](https://github.com/user-attachments/assets/5de31578-68bf-4dbc-a142-830c37f97def)
 
-8.	Setelah itu lakukan pengalamatan ip pada Client/PC
+7.	Setelah itu lakukan pengalamatan ip pada Client/PC
     ![image](https://github.com/user-attachments/assets/1f93b23b-cf74-47b7-b27a-368e8d31630f)
 
-9.	Lakukan pengujian PING pada setiap PC
+8.	Lakukan pengujian PING pada setiap PC
     ![image](https://github.com/user-attachments/assets/84cf8df0-9543-49e0-950b-d86ff9b4a6e3)
     ![image](https://github.com/user-attachments/assets/6ebf1cb0-9d6b-4144-a822-11028dfa9ef9)
     ![image](https://github.com/user-attachments/assets/5134fcf4-02e8-4ba8-a228-b3398df7292c)
-  Hasil
-   
     ![image](https://github.com/user-attachments/assets/714155ca-559d-4b0b-bce5-025d8f2e1639)
 
 
 ## B. PERCOBAAN WIRELESS
-1.	Buat Topologi Seperti Gambar diatas (note*: Gantilah device tablet menjadi laptop pada topologi diatas dan harus terhubung secara wireless)
+1.	Buat Topologi Seperti Gambar diatas (note*: Gantilah device tablet menjadi laptop pada topologi diatas dan harus terhubung secara wireless
+
     ![image](https://github.com/user-attachments/assets/c89754ac-8541-4dc4-aabc-529fa3675d9b)
 
 2.	Konfigurasi Access Point
@@ -86,6 +87,8 @@ MK	: Praktikum Jaringan Komputer
 +	Di PC Tablet, pilih tab/menu Desktop -> Command Prompt
 +	Jalankan perintah Ping ke IP Access Point 192.168.0.1
 +	Ping IP  Laptop0 ke Laptop1
- ![image](https://github.com/user-attachments/assets/8e19984f-3394-43bf-a20e-4b6d6924750f)
+
+![image](https://github.com/user-attachments/assets/8e19984f-3394-43bf-a20e-4b6d6924750f)
 + Ping Laptop1 ke Laptop0
+
  ![image](https://github.com/user-attachments/assets/feb2aacb-c61c-4c84-a606-2a0c20567e4b)
