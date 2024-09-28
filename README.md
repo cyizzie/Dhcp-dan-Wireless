@@ -31,7 +31,8 @@ MK	: Praktikum Jaringan Komputer
     ![image](https://github.com/user-attachments/assets/1f93b23b-cf74-47b7-b27a-368e8d31630f)
 
 8.	Lakukan pengujian PING pada setiap PC
-    ![image](https://github.com/user-attachments/assets/84cf8df0-9543-49e0-950b-d86ff9b4a6e3)
+
+  	![image](https://github.com/user-attachments/assets/84cf8df0-9543-49e0-950b-d86ff9b4a6e3)
     ![image](https://github.com/user-attachments/assets/6ebf1cb0-9d6b-4144-a822-11028dfa9ef9)
     ![image](https://github.com/user-attachments/assets/5134fcf4-02e8-4ba8-a228-b3398df7292c)
     ![image](https://github.com/user-attachments/assets/714155ca-559d-4b0b-bce5-025d8f2e1639)
@@ -80,7 +81,7 @@ MK	: Praktikum Jaringan Komputer
   3.	Pilih Authentication: WPA2-PSK.
   4.	Masukkan Pass Phrase: 12345678.
   5.	Pilih IP Configuration: DHCP (IP akan otomatis diberikan jika DHCP server aktif).
-  ![image](https://github.com/user-attachments/assets/73f2689a-582b-4735-91b8-b3093ddb3679)
+     ![image](https://github.com/user-attachments/assets/73f2689a-582b-4735-91b8-b3093ddb3679)
 
  
 4. Pengujian PING
@@ -88,7 +89,8 @@ MK	: Praktikum Jaringan Komputer
 +	Jalankan perintah Ping ke IP Access Point 192.168.0.1
 +	Ping IP  Laptop0 ke Laptop1
 
-![image](https://github.com/user-attachments/assets/8e19984f-3394-43bf-a20e-4b6d6924750f)
+   ![image](https://github.com/user-attachments/assets/8e19984f-3394-43bf-a20e-4b6d6924750f)
+   
 + Ping Laptop1 ke Laptop0
 
- ![image](https://github.com/user-attachments/assets/feb2aacb-c61c-4c84-a606-2a0c20567e4b)
+    ![image](https://github.com/user-attachments/assets/feb2aacb-c61c-4c84-a606-2a0c20567e4b)
